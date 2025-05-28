@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Creation Services - Get Started</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <img src="logo.png" alt="Content Creation Platform Logo">
+            </a>
+        </div>
+        <div class="auth-buttons">
+            <div class="user-profile-header">
+                <span class="user-greeting">Welcome,</span>
+                <span class="user-name" id="userName">Loading...</span>
+            </div>
+            <button class="logout-btn">
+                <i class="fas fa-sign-out-alt"></i> Logout
+            </button>
+        </div>
+    </header>
+
+    <main class="services-container">
+        <h1>Start Your Content Creation Journey</h1>
+        <div class="services-grid">
+            <div class="service-card setup-card">
+                <div class="service-icon-container">
+                    <div class="icon-circle">
+                        <i class="fas fa-camera-retro"></i>
+                    </div>
+                    <div class="icon-circle secondary">
+                        <i class="fas fa-lightbulb"></i>
+                    </div>
+                    <div class="icon-circle tertiary">
+                        <i class="fas fa-microphone"></i>
+                    </div>
+                </div>
+                <h2>Complete Content Creation Setup</h2>
+                <p class="price">Starting at ₹500</p>
+                <div class="features-container">
+                    <ul class="features-list">
+                        <li><i class="fas fa-check-circle"></i> Professional-grade equipment recommendations</li>
+                        <li><i class="fas fa-check-circle"></i> Lighting setup guide</li>
+                        <li><i class="fas fa-check-circle"></i> Audio optimization tips</li>
+                        <li><i class="fas fa-check-circle"></i> Basic editing software bundle</li>
+                        <li><i class="fas fa-check-circle"></i> Content planning templates</li>
+                    </ul>
+                </div>
+                <button class="select-btn" onclick="selectService('setup')">
+                    <span>Select Setup Package</span>
+                    <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+
+            <div class="service-card editor-card">
+                <div class="service-icon-container">
+                    <div class="icon-circle">
+                        <i class="fas fa-film"></i>
+                    </div>
+                    <div class="icon-circle secondary">
+                        <i class="fas fa-magic"></i>
+                    </div>
+                    <div class="icon-circle tertiary">
+                        <i class="fas fa-paint-brush"></i>
+                    </div>
+                </div>
+                <h2>Professional Video Editing Services</h2>
+                <p class="price">Custom Pricing</p>
+                <div class="features-container">
+                    <ul class="features-list">
+                        <li><i class="fas fa-check-circle"></i> YouTube video editing</li>
+                        <li><i class="fas fa-check-circle"></i> Short-form content creation</li>
+                        <li><i class="fas fa-check-circle"></i> Reels and TikTok optimization</li>
+                        <li><i class="fas fa-check-circle"></i> Professional color grading</li>
+                        <li><i class="fas fa-check-circle"></i> Custom transitions and effects</li>
+                    </ul>
+                </div>
+                <button class="select-btn" onclick="selectService('editor')">
+                    <span>Hire an Editor</span>
+                    <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>About Us</h3>
+                <p>Empowering creators to share their stories with the world.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Connect With Us</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Content Creation Platform. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="services.js"></script>
+</body>
+</html> 

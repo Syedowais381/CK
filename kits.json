@@ -1,0 +1,212 @@
+[
+  {
+    "id": "KIT001",
+    "name": "Streamer's Dream Pack",
+    "category": "With Camera",
+    "image": "images/streamer-kit.jpg",
+    "mainComponents": [
+      { "name": "Sony ZV-1 Camera", "link": "https://amzn.to/3zvYQ7P" },
+      { "name": "Elgato Wave 3 Mic", "link": "https://amzn.to/3Qa8QnW" },
+      { "name": "Neewer Ring Light", "link": "https://amzn.to/3QcX5Jk" }
+    ],
+    "allItems": ["Sony ZV-1 Camera", "Elgato Wave 3 Mic", "Neewer Ring Light", "JOBY GorillaPod 5K", "SanDisk 128GB Extreme Pro", "2x Sony NP-BX1 Batteries", "HDMI Cable"],
+    "price": 107900,
+    "description": "Go pro overnight! Crisp 4K video + broadcast-quality audio for aspiring streamers."
+  },
+  {
+    "id": "KIT002",
+    "name": "Podcast Powerhouse",
+    "category": "Without Camera",
+    "image": "images/podcast-kit.jpg",
+    "mainComponents": [
+      { "name": "Shure SM7B Mic", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Focusrite Scarlett 2i2", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Rode PSA1 Boom Arm", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Shure SM7B Mic", "Focusrite Scarlett 2i2", "Rode PSA1 Boom Arm", "XLR Cable", "Pop Filter", "Headphone Splitter"],
+    "price": 66400,
+    "description": "Sound like Joe Rogan! Studio-grade podcasting gear for viral-worthy episodes."
+  },
+  {
+    "id": "KIT003",
+    "name": "Mobile Maverick Kit",
+    "category": "With Camera",
+    "image": "images/mobile-kit.jpg",
+    "mainComponents": [
+      { "name": "iPhone 14 Pro", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "DJI OM 6 Gimbal", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Rode VideoMic Me-L", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["iPhone 14 Pro 128GB", "DJI OM 6 Gimbal", "Rode VideoMic Me-L", "Lume Cube Panel Mini", "SmallRig Phone Cage", "Anker PowerCore 20K"],
+    "price": 124400,
+    "description": "Shoot cinematic content anywhere—fits in your backpack!"
+  },
+  {
+    "id": "KIT004",
+    "name": "YouTube Zero to Hero",
+    "category": "With Camera",
+    "image": "images/youtube-kit.jpg",
+    "mainComponents": [
+      { "name": "Logitech C922 Pro", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Fifine K669B Mic", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Neewer 660 LED Panel", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Logitech C922 Pro", "Fifine K669B Mic", "Neewer 660 LED Panel", "Tripod", "Pop Filter", "USB Extension Cable"],
+    "price": 24900,
+    "description": "Start your YouTube journey with pro-quality gear that won't break the bank."
+  },
+  {
+    "id": "KIT005",
+    "name": "Hollywood Creator Suite",
+    "category": "With Camera",
+    "image": "images/hollywood-kit.jpg",
+    "mainComponents": [
+      { "name": "Sony A7 IV", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Atomos Ninja V", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Sennheiser MKH 416", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Sony A7 IV Body", "Atomos Ninja V", "Sennheiser MKH 416", "Sigma 24-70mm f/2.8", "Manfrotto 504X Fluid Head", "2x SanDisk 1TB Extreme Pro", "5x Sony NP-FZ100 Batteries", "Sachtler Ace XL Tripod"],
+    "price": 572600,
+    "description": "Netflix-level quality for indie filmmakers and pro YouTubers."
+  },
+  {
+    "id": "KIT006",
+    "name": "Gamer's Glory Bundle",
+    "category": "Without Camera",
+    "image": "images/gamer-kit.jpg",
+    "mainComponents": [
+      { "name": "Elgato Facecam", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "HyperX QuadCast S", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Elgato Key Light Air", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Elgato Facecam", "HyperX QuadCast S", "Elgato Key Light Air (x2)", "Elgato Stream Deck", "Boom Arm", "Pop Filter"],
+    "price": 74700,
+    "description": "Dominate Twitch with pro lighting, facecam, and crystal-clear voice."
+  },
+  {
+    "id": "KIT007",
+    "name": "Adventure Vlogger's Edge",
+    "category": "With Camera",
+    "image": "images/adventure-kit.jpg",
+    "mainComponents": [
+      { "name": "GoPro Hero 11 Black", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "DJI Mic Wireless", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "GoPro Media Mod", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["GoPro Hero 11 Black", "DJI Mic Wireless (2 TX + 1 RX)", "GoPro Media Mod", "3x GoPro Enduro Batteries", "GoPro Volta Grip", "SanDisk Extreme 256GB", "Waterproof Case"],
+    "price": 74600,
+    "description": "Surf, ski, or skydive—capture it all in stunning 5.3K."
+  },
+  {
+    "id": "KIT008",
+    "name": "Voiceover Virtuoso",
+    "category": "Without Camera",
+    "image": "images/voiceover-kit.jpg",
+    "mainComponents": [
+      { "name": "Neumann TLM 103", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Universal Audio Volt 276", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Primacoustic VoxGuard", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Neumann TLM 103", "Universal Audio Volt 276", "Primacoustic VoxGuard", "Boom Arm", "Shock Mount", "XLR Cable", "Acoustic Foam Panels (6pk)"],
+    "price": 124400,
+    "description": "The mic behind Morgan Freeman—now yours for audiobooks or ASMR."
+  },
+  {
+    "id": "KIT009",
+    "name": "TikTok Trendsetter",
+    "category": "With Camera",
+    "image": "images/tiktok-kit.jpg",
+    "mainComponents": [
+      { "name": "iPhone SE (2022)", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Ulanzi ST-06 Tripod", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Aputure MC RGB Light", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["iPhone SE (2022) 128GB", "Ulanzi ST-06 Tripod", "Aputure MC RGB Light", "Moment Wide Lens", "Rode Wireless GO II", "SmallRig Phone Cage"],
+    "price": 66300,
+    "description": "Go viral with pro lighting and stabilization for Reels/Shorts."
+  },
+  {
+    "id": "KIT010",
+    "name": "Interview Pro Duo",
+    "category": "With Camera",
+    "image": "images/interview-kit.jpg",
+    "mainComponents": [
+      { "name": "Panasonic GH5 II", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Rode Wireless GO II", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Aputure 300D", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Panasonic GH5 II", "Lumix 12-35mm f/2.8", "Rode Wireless GO II (2 TX + 1 RX)", "Aputure 300D", "Light Dome II", "2x SanDisk 128GB Extreme Pro", "Tripod", "Lavalier Mic (x2)"],
+    "price": 290400,
+    "description": "Two-mic, two-camera setup for podcasts or corporate interviews."
+  },
+  {
+    "id": "KIT011",
+    "name": "ASMR Whisper Studio",
+    "category": "Without Camera",
+    "image": "images/asmr-kit.jpg",
+    "mainComponents": [
+      { "name": "3Dio Free Space Pro II", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Zoom H6 Recorder", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Binaural Ear Microphones", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["3Dio Free Space Pro II", "Zoom H6 Recorder", "Binaural Ear Microphones", "128GB SD Card", "Shock Mount", "Foam Windscreen", "XLR Cables (x2)"],
+    "price": 107900,
+    "description": "Make listeners tingle with 3D binaural mics for immersive audio."
+  },
+  {
+    "id": "KIT012",
+    "name": "EduCreator Essentials",
+    "category": "Without Camera",
+    "image": "images/edu-kit.jpg",
+    "mainComponents": [
+      { "name": "Blue Yeti X", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Logitech Brio 4K", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Elgato Key Light", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Blue Yeti X", "Logitech Brio 4K", "Elgato Key Light", "Boom Arm", "Acoustic Foam Panels", "Document Camera"],
+    "price": 58000,
+    "description": "Teach like a pro with 4K video and studio lighting for online courses."
+  },
+  {
+    "id": "KIT013",
+    "name": "Indie Filmmaker's Kit",
+    "category": "With Camera",
+    "image": "images/indie-kit.jpg",
+    "mainComponents": [
+      { "name": "Blackmagic Pocket Cinema 6K", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Sigma 18-35mm f/1.8", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Tilta Nucleus Nano", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Blackmagic Pocket Cinema 6K", "Sigma 18-35mm f/1.8", "Tilta Nucleus Nano", "SmallRig Cage", "Samsung T5 1TB SSD", "5x LP-E6 Batteries", "Follow Focus Kit"],
+    "price": 331900,
+    "description": "Shoot Hollywood-grade films on an indie budget."
+  },
+  {
+    "id": "KIT014",
+    "name": "Twitch Turbo Pack",
+    "category": "With Camera",
+    "image": "images/twitch-kit.jpg",
+    "mainComponents": [
+      { "name": "Sony A6400", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Elgato Cam Link 4K", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Rode NT-USB", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Sony A6400", "16-50mm Kit Lens", "Elgato Cam Link 4K", "Rode NT-USB", "Neewer LED Panel", "Green Screen", "Elgato Stream Deck"],
+    "price": 132800,
+    "description": "Ditch the webcam! Mirrorless quality for serious streamers."
+  },
+  {
+    "id": "KIT015",
+    "name": "Minimalist Magic Setup",
+    "category": "Without Camera",
+    "image": "images/minimalist-kit.jpg",
+    "mainComponents": [
+      { "name": "Rode NT1 5th Gen", "link": "https://amzn.to/3WgTb2K" },
+      { "name": "Audient EVO 4", "link": "https://amzn.to/3WgSX8L" },
+      { "name": "Neewer RGB Light", "link": "https://amzn.to/3WgTb2K" }
+    ],
+    "allItems": ["Rode NT1 5th Gen", "Audient EVO 4", "Neewer RGB Light", "Boom Arm", "Pop Filter", "XLR Cable"],
+    "price": 49700,
+    "description": "Less gear, more clarity—perfect for voiceovers or Zoom calls."
+  }
+]
